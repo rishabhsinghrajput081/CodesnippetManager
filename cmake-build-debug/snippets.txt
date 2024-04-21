@@ -1,0 +1,20 @@
+Tag: for
+Code:
+for (i = 0; i <= 10 ; i++)
+{
+   return i;
+}
+
+
+Tag: functions
+Code:
+int add(int a, int b){
+   return a+b;
+}
+
+Tag: loops
+Code:
+for (int i = 0; i < 10; i++){
+   cout << i << endl
+}
+

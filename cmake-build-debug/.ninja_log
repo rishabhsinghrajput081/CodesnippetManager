@@ -1,0 +1,8 @@
+# ninja log v5
+16	2631	1713728497694812589	CMakeFiles/untitled.dir/main.cpp.o	6ceba1308a01e98b
+2631	2775	1713728497847522810	untitled	2fcfe560dec3fe6e
+13	224	1713730520330916923	CMakeFiles/untitled.dir/CodeSnippetManager.cpp.o	bfda8ed83d072a59
+224	393	1713730520506568208	untitled	9a60dac38e8eabd2
+12	1969	1713733380708365599	CMakeFiles/untitled.dir/main.cpp.o	6ceba1308a01e98b
+13	1730	1713733452324362360	CMakeFiles/untitled.dir/CodeSnippetManager.cpp.o	bfda8ed83d072a59
+1730	1873	1713733452470288622	untitled	9a60dac38e8eabd2
