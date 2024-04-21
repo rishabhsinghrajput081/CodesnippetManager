@@ -51,6 +51,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Contact
 
-If you have any questions, suggestions, or feedback about the Code Snippet Manager project, feel free to contact me at [your_email@example.com].
+If you have any questions, suggestions, or feedback about the Code Snippet Manager project, feel free to contact me at [rishabhsinghrajput081@gmail.com].
 
 Happy coding!
